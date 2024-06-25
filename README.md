@@ -1,6 +1,4 @@
 # mlkit-hat
-MLKit Hat
+Folow instructions to wear a virtual hat
 
-This reposiitory builds and runs without any additional setup. 
-
-Note: I have only tested this app on a physical device.
+Note: This reposiitory builds and runs without any additional setup. I have only tested this app on a physical device.
